@@ -1,0 +1,12 @@
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-core==0.3.1
+langchain-openai==0.2.0
+langchain-text-splitters==0.3.0
+langgraph==0.2.22
+langgraph-checkpoint==1.0.10
+langsmith==0.1.123
+openai==1.47.0
+gradio==4.44.0
+requests==2.32.3
+tiktoken==0.7.0
